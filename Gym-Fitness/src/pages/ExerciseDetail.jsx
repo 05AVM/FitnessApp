@@ -1,8 +1,11 @@
-//import React from 'react'
+/* eslint-disable no-unused-vars */
+import React from 'react'
 
 const ExerciseDetail = () => {
   return (
-    <div>ExerciseDetail</div>
+    <div>
+      <h1>ExerciseDetail</h1>
+    </div>
   )
 }
 
